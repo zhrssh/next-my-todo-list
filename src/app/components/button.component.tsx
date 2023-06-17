@@ -7,6 +7,13 @@ type ButtonProps = {
     label: string
 }
 
+/**
+ * This is a `Link` component that allows navigation between pages.
+ * In this function, reusing the button will keep the design consistent
+ * throughout different pages, also, the params `path` and `label` were also
+ * added to make it as modular as possible.
+ * @params { path, label } 
+ */
 export function Button({ path, label }: ButtonProps) {
     return (
         <>
