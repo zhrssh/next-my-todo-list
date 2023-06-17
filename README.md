@@ -9,3 +9,6 @@ In this project, I have learned the basics and fundamentals of the Next.js frame
 3. Basics of tailwind css
 4. Improved on code modularity to apply DRY (Don't Repeat Yourself) principle
 5. Using prisma to update sqlite database and store data
+
+In this project, I learned from @WebDevSimplified.
+YouTube: https://www.youtube.com/watch?v=NgayZAuTgwM
